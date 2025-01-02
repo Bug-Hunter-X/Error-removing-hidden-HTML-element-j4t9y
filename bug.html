@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>Uncommon HTML Bug</title></head><body> <div id="myDiv">This is some text.</div> <script> const element = document.getElementById('myDiv'); element.style.display = 'none'; // Incorrectly hides the element element.remove(); // Attempts to remove the element, causing an error because it's already hidden. </script></body></html>
