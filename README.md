@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML/JavaScript bug related to removing a hidden element. The bug.html file contains the erroneous code.  The solution.html file provides a corrected approach, illustrating the best practice for removing elements.
